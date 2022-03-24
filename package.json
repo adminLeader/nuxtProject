@@ -1,0 +1,21 @@
+{
+  "name": "nuxtproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build":"nuxt build",
+    "start":"nuxt start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "cookieparser": "^0.1.0",
+    "js-cookie": "^3.0.1",
+    "nuxt": "^2.15.8",
+    "vue-underscore": "^0.1.4"
+  }
+}
